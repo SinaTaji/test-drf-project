@@ -1,4 +1,12 @@
 {
+  "django": {
+    "mirror": true,
+    "pythonVersion": "3.12",
+    "timezone": "America/Los_Angeles",
+    "compileMessages": false,
+    "modifySettings": true,
+    "geospatial": false
+  },
   "disks": [
     {
       "name": "database",
